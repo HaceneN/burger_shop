@@ -5,3 +5,5 @@ oignons
 cornichons
 ketchup
 moutarde
+mayonnaise
+salade
